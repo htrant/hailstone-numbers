@@ -12,9 +12,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.HashMap;
 
-/**
- * Created by willydekido on 21/02/16.
- */
 @WebServlet(name = "ResultController")
 public class ResultController extends HttpServlet {
     public static final long serialVersionUID = 1L;
