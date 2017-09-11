@@ -3,10 +3,6 @@ package com.service;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- * Created by willydekido on 20/02/16.
- * This class stores a sorted list of numbers
- */
 public class SortedList<E> extends ArrayList<E> {
 
     /**
