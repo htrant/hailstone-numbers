@@ -2,10 +2,6 @@ package com.service;
 
 import java.util.HashMap;
 
-/**
- * Created by willydekido on 20/02/16.
- * Hailstone sequence class
- */
 public class Hailstone {
     private long number;
 
